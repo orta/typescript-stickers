@@ -31,6 +31,10 @@ The source of truth for the stickers is [this Sketch file](./stickers.sketch)
 
 1. http://www.diginate.com
 
+**EU**
+
+1. https://stickerapp.com 
+
 
 
 I'm open to more regional recommendations. Note, I avoid stickermule because I don't want to support [their](https://twitter.com/iron_spike/status/785869384547983360?lang=en) [CEO](https://twitter.com/Shattered_Earth/status/1045726685591613440). You're welcome to use it though.
