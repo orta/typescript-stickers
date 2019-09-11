@@ -19,3 +19,18 @@ Some fun longer stickers
 | <img src="images/2x1 Inch Rectangle alt 2.png" width=240 height=120> | 2" x 1" | I can make sense of this, sure |
 
 The source of truth for the stickers is [this Sketch file](./stickers.sketch)
+
+## Getting Them Printed 
+
+**USA**
+
+1. https://www.stickergiant.com/type ( Use die-cut, then matte, then square/rect )
+2. https://stickerobot.com/stickers/
+
+**UK**
+
+1. http://www.diginate.com
+
+
+
+I'm open to more regional recommendations. Note, I avoid stickermule because I don't want to support [their](https://twitter.com/iron_spike/status/785869384547983360?lang=en) [CEO](https://twitter.com/Shattered_Earth/status/1045726685591613440). You're welcome to use it though.
